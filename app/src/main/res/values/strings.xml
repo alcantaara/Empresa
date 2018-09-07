@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Empresas</string>
+    <string name="bem_vindo">BEM-VINDO AO EMPRESAS</string>
+    <string name="frase_login">Lorem ipsum dolor sit amet, contetur adipiscing elit. Nunc accumsan.</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">ENTRAR</string>
+    <string name="busca_home">Clique na busca para iniciar.</string>
+    <string name="erro">Usuário ou senha incorretos!</string>
+</resources>
